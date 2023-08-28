@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
 <hr/>
-Dataset Columns 
+**Dataset Columns **
 <br/>
 The dataset comprises the following columns:<br/>
 
