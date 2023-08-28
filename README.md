@@ -1,4 +1,13 @@
 # Customer-Churn-Prediction
+
+![image](https://github.com/arju10/Customer-Churn-Prediction/assets/52301135/affdf037-6c87-42aa-b6e2-617fc9b18a75)
+
+<br/>
+<br/>
+
+![image](https://github.com/arju10/Customer-Churn-Prediction/assets/52301135/4f0f9825-fa47-4b39-b62a-5dea03c2dfb4)
+
+
 <hr/>
 **Dataset Columns **
 <br/>
