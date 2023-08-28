@@ -1,6 +1,7 @@
 # Customer-Churn-Prediction
 <hr/>
-**Dataset Columns** <br/>
+## Dataset Columns 
+<br/>
 The dataset comprises the following columns:<br/>
 
 **CustomerID:** A unique identifier assigned to each customer. <br/>
